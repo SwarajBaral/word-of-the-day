@@ -2,7 +2,7 @@
 A python script that scrapes www.dictionary.com to display the word of the day, its meaning and its description in the terminal.
 
 ## Getting Started
-###Packages
+### Packages
 To install the required packages for this script.Navigate to the repository on your local machine run the following command in the terminal.
 ```python
 pip install -r requirements.txt
