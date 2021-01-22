@@ -4,7 +4,7 @@ A python script that scrapes [Dictionary.com](https://www.dictionary.com/)to dis
 ## Getting Started
 ### Packages
 To install the required packages for this script.Navigate to the repository on your local machine run the following command in the terminal.
-```python
+```terminal
 pip install -r requirements.txt
 ```
 ### Usage
